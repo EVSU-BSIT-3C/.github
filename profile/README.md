@@ -11,6 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+
+Google Drive Folder
+
+https://drive.google.com/drive/folders/1XkQbyBnJvG6bBZ5tuHajYBW9Pt9vBk2P?usp=sharing
+
 Project Plan
 
 https://github.com/orgs/EVSU-BSIT-3C/projects/1/views/1
