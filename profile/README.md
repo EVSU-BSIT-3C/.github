@@ -54,7 +54,7 @@
 2. https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 
   * categories and tasks
-  * single-user only
+  * checkboxes
 
 
 ----
