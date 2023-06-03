@@ -34,6 +34,8 @@ https://github.com/mrsarm/django-coleman
 https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 
 
+----
+
 Google Drive Folder
 
 https://drive.google.com/drive/folders/1XkQbyBnJvG6bBZ5tuHajYBW9Pt9vBk2P?usp=sharing
