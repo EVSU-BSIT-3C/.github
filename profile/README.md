@@ -14,24 +14,24 @@
 
 ### PHP
 
-https://www.campcodes.com/projects/php/task-management-system-using-php-mysqli-free-download/
+1. https://www.campcodes.com/projects/php/task-management-system-using-php-mysqli-free-download/
 
-https://www.sourcecodester.com/php/15624/simple-task-managing-system-php-mysqli-free-source-code.html
+2. https://www.sourcecodester.com/php/15624/simple-task-managing-system-php-mysqli-free-source-code.html
 
-https://code-projects.org/task-management-system-in-php-with-source-code/
+3. https://code-projects.org/task-management-system-in-php-with-source-code/
 
-https://www.sourcecodester.com/php/16451/task-reminder-system-php-and-mysql-source-code-free-download.html
+4. https://www.sourcecodester.com/php/16451/task-reminder-system-php-and-mysql-source-code-free-download.html
 
-https://itsourcecode.com/free-projects/php-project/task-management-system-in-php-with-source-code/
+5. https://itsourcecode.com/free-projects/php-project/task-management-system-in-php-with-source-code/
 
-https://code-projects.org/simple-task-list-in-php-with-source-code/
+6. https://code-projects.org/simple-task-list-in-php-with-source-code/
 
 
 ### Python
 
-https://github.com/mrsarm/django-coleman
+1. https://github.com/mrsarm/django-coleman
 
-https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
+2. https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 
 
 ----
