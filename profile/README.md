@@ -51,14 +51,16 @@
 ### Python
 
 1. https://github.com/mrsarm/django-coleman
-
+  - [x] downloaded
+  * STATUS: functioning
   * based on django admin panel
-  * hard to customize
+  * built-in design, hard to change colors
 
 2. https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
-
+  - [x] downloaded
+  * STATUS: broken UI
   * categories and tasks
-  * checkboxes
+  * radio buttons are decorations only
 
 
 ----
