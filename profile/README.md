@@ -54,7 +54,7 @@
   - [x] downloaded
   * STATUS: functioning
   * based on django admin panel
-  * built-in design, hard to change colors
+  * built-in design
 
 #### 2. https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
   - [x] downloaded
