@@ -16,22 +16,45 @@
 
 1. https://www.campcodes.com/projects/php/task-management-system-using-php-mysqli-free-download/
 
+  * projects, tasks, users, reports
+  * project progress, total no. of tasks
+
 2. https://www.sourcecodester.com/php/15624/simple-task-managing-system-php-mysqli-free-source-code.html
+
+  * login, projects, tasks
+  * kanban board
 
 3. https://code-projects.org/task-management-system-in-php-with-source-code/
 
+  * tasks are assigned directly to users
+  * no sign up button, cannot add account
+
 4. https://www.sourcecodester.com/php/16451/task-reminder-system-php-and-mysql-source-code-free-download.html
+
+  * admin dashboard
+  * reminders
 
 5. https://itsourcecode.com/free-projects/php-project/task-management-system-in-php-with-source-code/
 
+  * login
+  * ???
+
 6. https://code-projects.org/simple-task-list-in-php-with-source-code/
 
+  * tasks and projects
+  * simple table-based design
 
 ### Python
 
 1. https://github.com/mrsarm/django-coleman
 
+  * based on django admin panel
+  * hard to customize
+
 2. https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
+
+  * categories and tasks
+  * single-user only
 
 
 ----
