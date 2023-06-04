@@ -81,7 +81,7 @@ https://github.com/orgs/EVSU-BSIT-3C/projects/1/views/1
 
 2023-06-04
 - 05:20 checked the other options in PHP and Python. Projects were downloaded and working/non-working features were observed.
-- 08:05 #3 DECIDE: 
+- 08:05 DECIDE: 
   - try to fix and improve 'Python no. 2' project
   - choose another project from the list to adopt
   - create a new project in Python, Django, with repl.it for collaboration
