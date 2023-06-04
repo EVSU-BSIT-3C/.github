@@ -72,3 +72,15 @@ https://drive.google.com/drive/folders/1XkQbyBnJvG6bBZ5tuHajYBW9Pt9vBk2P?usp=sha
 Project Plan
 
 https://github.com/orgs/EVSU-BSIT-3C/projects/1/views/1
+
+----
+
+## Project Log
+
+2023-01-04
+- #1 tried to modified 'Python no. 2' as 'Task-Keeper'. Currently, UI is broken as sidebar and buttons don't work properly.
+- #2 checked the other options in PHP and Python. Projects were downloaded and working/non-working features were observed.
+- #3 DECIDE: 
+  - try to fix and improve 'Python no. 2' project
+  - choose another project from the list to adopt
+  - create a new project in Python, Django, with repl.it for collaboration
